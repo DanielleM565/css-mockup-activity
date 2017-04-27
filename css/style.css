@@ -53,3 +53,12 @@ body { width: 100%;}
 /*****************************************************
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
+/* the top is div class:container- make the margin (inline) all orange */
+
+.container {
+	background-color: darkorange;;
+}
+
+.font-family {
+	font: "Arial Black";
+}
