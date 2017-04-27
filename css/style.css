@@ -58,7 +58,8 @@ body { width: 100%;}
 .container {
 	background-color: darkorange;;
 }
-
-.font-family {
-	font: "Arial Black";
+p {
+	color: white
+	font-family: helvetica, arial, sans-serif;
 }
+
