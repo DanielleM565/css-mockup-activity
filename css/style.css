@@ -55,11 +55,22 @@ body { width: 100%;}
 ******************************************************/
 /* the top is div class:container- make the margin (inline) all orange */
 
-.container {
-	background-color: darkorange;;
+.headercontainer {
+	background-color: darkorange;
+	color: white;
+	font-family: sans-serif;
+	padding: 10px;
+
 }
-p {
-	color: white
-	font-family: helvetica, arial, sans-serif;
+
+header .container h1 {
+	float: left;
+	font-family: sans-serif;
 }
+
+header .container em {
+	font-family: sans-serif;
+	display: inline-block;
+}
+.header
 
