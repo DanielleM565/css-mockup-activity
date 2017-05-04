@@ -54,23 +54,3 @@ body { width: 100%;}
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
 /* the top is div class:container- make the margin (inline) all orange */
-
-.headercontainer {
-	background-color: darkorange;
-	color: white;
-	font-family: sans-serif;
-	padding: 10px;
-
-}
-
-header .container h1 {
-	float: left;
-	font-family: sans-serif;
-}
-
-header .container em {
-	font-family: sans-serif;
-	display: inline-block;
-}
-.header
-
